@@ -1,6 +1,7 @@
 # Vitor Trentim
+
 <div style="displey:flex;">
-<a href="mailto:vitor.trentim@gmail.com"><img height="50" src="https://cdn.onlinewebfonts.com/svg/img_432958.png" alt="Gmail" title="Gmail"></a> <a href="https://br.linkedin.com/in/vitor-trentim" target="_blank"><img height="50" src="https://cdn.onlinewebfonts.com/svg/img_24845.png" alt="Linkedin" title="Linkedin"></a>
+    <a href="mailto:vitor.trentim@gmail.com"><img height="50" src="https://cdn.onlinewebfonts.com/svg/img_432958.png" alt="Gmail" title="Gmail"></a> <a href="https://br.linkedin.com/in/vitor-trentim" target="_blank"><img height="50" src="https://cdn.onlinewebfonts.com/svg/img_24845.png" alt="Linkedin" title="Linkedin"></a>
 </div>
 
 :computer:  Pursuing a degree of BS in Information Systems
